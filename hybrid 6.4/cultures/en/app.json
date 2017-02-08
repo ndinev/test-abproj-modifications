@@ -6,5 +6,16 @@
   },
   "home": {
     "title": "Home View"
+  },
+  "aboutView": {
+    "title": "About",
+    "aboutViewModel": {
+      "appName": "My App",
+      "appVersion": "Version 1",
+      "appDescription": "App description",
+      "contactLabel": "Contact us",
+      "facebookLabel": "Like us on Facebook",
+      "twitterLabel": "Follow us on Twitter"
+    }
   }
 }
